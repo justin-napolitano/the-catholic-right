@@ -1,12 +1,26 @@
 ---
-slug: "github-the-catholic-right"
-title: "the-catholic-right"
-repo: "justin-napolitano/the-catholic-right"
-githubUrl: "https://github.com/justin-napolitano/the-catholic-right"
-generatedAt: "2025-11-23T09:47:16.468268Z"
-source: "github-auto"
+slug: github-the-catholic-right
+title: Technical Overview of Catholic Theology’s Influence on the American Right
+repo: justin-napolitano/the-catholic-right
+githubUrl: https://github.com/justin-napolitano/the-catholic-right
+generatedAt: '2025-11-23T09:47:16.468268Z'
+source: github-auto
+summary: >-
+  Structured markdown notes exploring the intersection of Catholic theology and political figures
+  like JD Vance on the American right.
+tags:
+  - markdown
+  - political-theology
+  - github
+  - social-media-analysis
+seoPrimaryKeyword: catholic theology and politics
+seoSecondaryKeywords:
+  - jd vance
+  - markdown notes
+  - american right
+  - political discourse
+seoOptimized: true
 ---
-
 
 # The Catholic Right and JD Vance: A Technical Overview
 
