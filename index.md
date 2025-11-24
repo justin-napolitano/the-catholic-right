@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - american right
   - political discourse
 seoOptimized: true
+topicFamily: personal
+topicFamilyConfidence: 0.7
+topicFamilyNotes: >-
+  The post is a structured markdown repository documenting reflections on political theology and
+  cultural analysis, which aligns best with the 'Personal' category focused on markdown and
+  reflective content, rather than strictly technical domains like automation or datascience.
 ---
 
 # The Catholic Right and JD Vance: A Technical Overview
@@ -56,3 +62,4 @@ Developers returning to this project can quickly understand the scope and intent
 ## Summary
 
 This repository is a minimalist but focused attempt to document the nuanced relationship between Catholic theology and political figures on the right. It prioritizes clarity and organization over complexity, making it a practical reference for technical users interested in the subject matter.
+
