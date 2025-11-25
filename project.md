@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/the-catholic-right
 generatedAt: '2025-11-24T21:36:40.437Z'
 source: github-auto
 summary: >-
-  This repository offers notes on Catholic theology and its intersection with
-  contemporary political figures, focusing on Bishop Robert Barron.
+  This repository offers notes on Catholic theology and its intersection with contemporary political
+  figures, focusing on Bishop Robert Barron.
 tags:
   - markdown
   - theology
@@ -24,8 +24,8 @@ seoSecondaryKeywords:
   - social media in theology
   - cultural touchpoints
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.8
 kind: project
 entryLayout: project
 showInProjects: true
@@ -74,4 +74,5 @@ To view the content locally:
 - Add summaries or transcripts of referenced external content.
 - Incorporate structured metadata or tagging for easier navigation.
 - Potentially develop a website or blog to present this content in a more accessible format.
+
 
